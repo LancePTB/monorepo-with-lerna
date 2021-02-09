@@ -1,6 +1,6 @@
 {
   "name": "@rbarbazz/module-c",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "description": "> TODO: description",
   "author": "rbarbazz <raphael.barbazza@gmail.com>",
   "homepage": "https://github.com/rbarbazz/monorepo-with-lerna#readme",
@@ -27,8 +27,8 @@
     "url": "https://github.com/rbarbazz/monorepo-with-lerna/issues"
   },
   "dependencies": {
-    "@rbarbazz/module-a": "^1.0.3",
-    "@rbarbazz/module-b": "^1.0.3"
+    "@rbarbazz/module-a": "^1.0.4",
+    "@rbarbazz/module-b": "^1.0.4"
   },
   "gitHead": "5e9fb42ef8c50ecae5a8943cc050a6090b95a8f1"
 }
